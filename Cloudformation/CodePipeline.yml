@@ -7,7 +7,7 @@ Parameters:
     Default: dev
   GithubUserName:
     Type: String
-    Default: NadiaHussna
+    Default: Username
   GithubRepo:
     Type: String
     Default: Fargate-ECSCluster-Cloudformation
@@ -16,7 +16,7 @@ Parameters:
     Default: Main
   GithubOAuthToken:
     Type: String
-    Default: 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
+    Default: Github Token
   ContainerPort:
     Type: Number
     Default: 8080
